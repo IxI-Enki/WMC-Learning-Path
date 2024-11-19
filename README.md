@@ -14,7 +14,7 @@ Document your progress by creating summaries and programming the examples. Push 
    |                                                                                                            | 18 27min  |          |           |  
   <!------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
 
-2. HTTP Networking - Work through the following topics
+2. HTTP Networking - Work through the following topics ⚠️
 
   <!----------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
    | Task                                                                                                           | Duration  | Progress | Completed |  
@@ -26,7 +26,7 @@ Document your progress by creating summaries and programming the examples. Push 
    |                                                                                                                |  6h 9min  |          |           |  
   <!----------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
 
-3. Watch the following videos about basic JavaScript techniques for web development
+3. Watch the following videos about basic JavaScript techniques for web development ⚠️
 
   <!-----------------------------------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
    | Task                                                                                                                                    | Duration  | Progress | Completed |  
