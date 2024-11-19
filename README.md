@@ -14,7 +14,7 @@ Document your progress by creating summaries and programming the examples. Push 
    |                                                                                                            | 18 27min  |          |           |  
   <!------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
 
-3. HTTP Networking - Work through the following topics
+2. HTTP Networking - Work through the following topics
 
   <!----------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
    | Task                                                                                                           | Duration  | Progress | Completed |  
@@ -26,7 +26,7 @@ Document your progress by creating summaries and programming the examples. Push 
    |                                                                                                                |  6h 9min  |          |           |  
   <!----------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
 
-5. Watch the following videos about basic JavaScript techniques for web development
+3. Watch the following videos about basic JavaScript techniques for web development
 
   <!-----------------------------------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
    | Task                                                                                                                                    | Duration  | Progress | Completed |  
@@ -44,7 +44,7 @@ Document your progress by creating summaries and programming the examples. Push 
    |                                                                                                                                         |   63min   |          |           |  
   <!--|--------------------------------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
 
-7. Work through the following video about Node.js and Express
+4. Work through the following video about Node.js and Express
 
   <!------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
    | Task                                                                                                       | Duration  | Progress | Completed |  
