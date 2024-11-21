@@ -1,6 +1,9 @@
 # WMC-Learning-Path
  
-Document your progress by creating summaries and programming the examples. Push this documentation to your GitHub repo to verify the work you've completed.
+Document your progress by creating summaries and programming the examples. Push this documentation to your GitHub repo to verify the work you've completed.  
+- [Node.js Übung](https://github.com/IxI-Enki/WMCUebung-003)
+- [StackBlitz Übung](https://github.com/IxI-Enki/WMCUebung-001)  
+
 
 1. Finish either the JavaScript Course on Codecademy or the one from freeCodeCamp
 
