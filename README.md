@@ -25,7 +25,7 @@ Document your progress by creating summaries and programming the examples. Push 
    | [Article: What is HTTP](https://www.freecodecamp.org/news/what-is-http/)                                       |    1h     |   0 %    |    no     |  
    | ![WhatIsHttpArticle](https://github.com/user-attachments/assets/db2126a6-0dca-4704-8b70-2672e5d029e5)          |           |          |    ❌     |  
    | [Full HTTP Networking Course – Fetch and REST APIs in JavaScript](https://www.youtube.com/watch?v=2JYT5f2isg4) |  5h 9min  |   0 %    |    no     |  
-   |![HTTPVideo](https://github.com/user-attachments/assets/6b774899-3da4-4d6d-a340-892296699725)                   |           |          |    ❌     |  
+   | ![HTTPVideo](https://github.com/user-attachments/assets/6b774899-3da4-4d6d-a340-892296699725)                  |           |          |    ❌     |  
    |                                                                                                                |  6h 9min  |          |           |  
   <!----------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
 
