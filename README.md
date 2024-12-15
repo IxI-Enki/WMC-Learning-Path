@@ -46,6 +46,7 @@ Document your progress by creating summaries and programming the examples. Push 
 ---
 
 <div align="center">
+ 
 ### *Projektarbeit im nächsten Semester:*   
 Nach der Prüfung folgt eine Projektarbeit. 
 </div>
