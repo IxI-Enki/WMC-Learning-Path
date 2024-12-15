@@ -39,19 +39,14 @@ Document your progress by creating summaries and programming the examples. Push 
     - Daten parsen und weiterverarbeiten.  
   - Verständnis, wie REST APIs arbeiten und was sie ermöglichen.
 
+*Hinweis:* Alle Inhalte des Test haben gesamt eine Gewichtung von insgesamt 100 Punkten.
+ 
+</details>
 ---
-
 ### *Projektarbeit im nächsten Semester:*  
 Nach der Prüfung folgt eine Projektarbeit. 
 
 --- 
-
-*Hinweis:* Alle Inhalte des Test haben gesamt eine Gewichtung von insgesamt 100 Punkten.
-
----
- 
-</details>
-
 
 ## 1. Finish either the JavaScript Course on Codecademy or the one from freeCodeCamp
 
