@@ -7,6 +7,7 @@
 - [Node.js Übung](https://github.com/IxI-Enki/WMCUebung-003)
 - [StackBlitz Übung](https://github.com/IxI-Enki/WMCUebung-001)  
 
+---
 
 <details>
   <summary> click for Teststoff </summary>
@@ -16,8 +17,6 @@
 - *Lernmaterialien:*  
   - Inhalte aus dem 5-stündigen Video sind prüfungsrelevant.  
   - Materialien auf Moodle sind ebenfalls prüfungsrelevant.
-
----
 
 ### *Themen für die Prüfung:*
 
