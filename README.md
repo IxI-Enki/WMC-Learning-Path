@@ -12,8 +12,8 @@ Document your progress by creating summaries and programming the examples. Push 
    |------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|  
    | [Codecademy - Introdcution to javaScript](https://www.codecademy.com/learn/introduction-to-javascript)     |   15h     |  100 %   |    yes    |  
    | ![JavaScript](https://github.com/user-attachments/assets/15b2b634-fe97-44fa-8543-16722e1eb0f3)             |           |          |     ✅    |  
-   | [freeCodeCamp - Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) | 3h 27 min |  0 min   |    no     |  
-   | ![JavaScriptVideo](https://github.com/user-attachments/assets/1bb284ed-c9ee-42d3-9658-3683a4a00210)        |           |          |    ❌     |  
+   | [freeCodeCamp - Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) | 3h 27 min |  100 %   |    yes    |  
+   | ![JavaScriptVideo](https://github.com/user-attachments/assets/1bb284ed-c9ee-42d3-9658-3683a4a00210)        |           |          |     ✅    |  
    |                                                                                                            | 18 27min  |          |           |  
   <!------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
 
@@ -22,8 +22,8 @@ Document your progress by creating summaries and programming the examples. Push 
   <!----------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
    | Task                                                                                                           | Duration  | Progress | Completed |  
    |----------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|  
-   | [Article: What is HTTP](https://www.freecodecamp.org/news/what-is-http/)                                       |    1h     |   0 %    |    no     |  
-   | ![WhatIsHttpArticle](https://github.com/user-attachments/assets/db2126a6-0dca-4704-8b70-2672e5d029e5)          |           |          |    ❌     |  
+   | [Article: What is HTTP](https://www.freecodecamp.org/news/what-is-http/)                                       |    1h     |   100 %  |    yes    |  
+   | ![WhatIsHttpArticle](https://github.com/user-attachments/assets/db2126a6-0dca-4704-8b70-2672e5d029e5)          |           |          |    ✅     |  
    | [Full HTTP Networking Course – Fetch and REST APIs in JavaScript](https://www.youtube.com/watch?v=2JYT5f2isg4) |  5h 9min  |   0 %    |    no     |  
    | ![HTTPVideo](https://github.com/user-attachments/assets/6b774899-3da4-4d6d-a340-892296699725)                  |           |          |    ❌     |  
    |                                                                                                                |  6h 9min  |          |           |  
