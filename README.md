@@ -5,7 +5,55 @@ Document your progress by creating summaries and programming the examples. Push 
 - [StackBlitz Übung](https://github.com/IxI-Enki/WMCUebung-001)  
 
 
-1. Finish either the JavaScript Course on Codecademy or the one from freeCodeCamp
+<details>
+  <summary> click for Teststoff </summary>
+
+*Zusammenfassung des Teststoffs:*
+
+- *Lernmaterialien:*  
+  - Inhalte aus dem 5-stündigen Video sind prüfungsrelevant.  
+  - Materialien auf Moodle sind ebenfalls prüfungsrelevant.
+
+---
+
+### *Themen für die Prüfung:*
+
+#### *1. Asynchroner Code (Promises):*
+  - Verständnis und Anwendung von asynchronem Code.  
+  - Promises: Beispiele, Pseudocode schreiben und verstehen.  
+
+#### *2. Multiple-Choice-Fragen:*  
+  - *HTTP und HTTPS:* Methoden und Grundlagen.  
+  - *JSON:* Was ist JSON, wie verwendet man es? Umgang mit JSON-Dateien (Vergleich mit XML).  
+  - *DNS:* Grundlagen, Funktionsweise.  
+  - *Fehlercodes:* Kategorien von Server- und Client-Fehlern (z. B. 4xx, 5xx, 402).  
+
+#### *3. Offene Fragen:*  
+  - Unterschiede und Erklärung von synchronem und asynchronem Code.  
+  - URL-Aufbau: Parameter, Struktur, Bestandteile.  
+  - Verständnis von HTTP-Methoden und deren Einsatz.  
+
+#### *4. REST API (100% wichtig):*
+  - Funktionalität von REST APIs erklären:  
+    - Aufbau eines Requests und einer Response.  
+    - Daten parsen und weiterverarbeiten.  
+  - Verständnis, wie REST APIs arbeiten und was sie ermöglichen.
+
+---
+
+### *Projektarbeit im nächsten Semester:*  
+Nach der Prüfung folgt eine Projektarbeit. 
+
+--- 
+
+*Hinweis:* Alle Inhalte des Test haben gesamt eine Gewichtung von insgesamt 100 Punkten.
+
+---
+ 
+</details>
+
+
+## 1. Finish either the JavaScript Course on Codecademy or the one from freeCodeCamp
 
   <!------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
    | Task                                                                                                       | Duration  | Progress | Completed |  
@@ -17,7 +65,7 @@ Document your progress by creating summaries and programming the examples. Push 
    |                                                                                                            | 18 27min  |          |           |  
   <!------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
 
-2. HTTP Networking - Work through the following topics ⚠️
+## 2. HTTP Networking - Work through the following topics ⚠️
 
   <!----------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
    | Task                                                                                                           | Duration  | Progress | Completed |  
@@ -29,7 +77,7 @@ Document your progress by creating summaries and programming the examples. Push 
    |                                                                                                                |  6h 9min  |          |           |  
   <!----------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
 
-3. Watch the following videos about basic JavaScript techniques for web development ⚠️
+## 3. Watch the following videos about basic JavaScript techniques for web development ⚠️
 
   <!-----------------------------------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
    | Task                                                                                                                                    | Duration  | Progress | Completed |  
@@ -47,7 +95,7 @@ Document your progress by creating summaries and programming the examples. Push 
    |                                                                                                                                         |   63min   |          |           |  
   <!--|--------------------------------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
 
-4. Work through the following video about Node.js and Express
+## 4. Work through the following video about Node.js and Express
 
   <!------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
    | Task                                                                                                       | Duration  | Progress | Completed |  
