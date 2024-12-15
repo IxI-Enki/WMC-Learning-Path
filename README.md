@@ -42,9 +42,13 @@ Document your progress by creating summaries and programming the examples. Push 
 *Hinweis:* Alle Inhalte des Test haben gesamt eine Gewichtung von insgesamt 100 Punkten.
  
 </details>
+
 ---
-### *Projektarbeit im nächsten Semester:*  
+
+<div align="center">
+### *Projektarbeit im nächsten Semester:*   
 Nach der Prüfung folgt eine Projektarbeit. 
+</div>
 
 --- 
 
