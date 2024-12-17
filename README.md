@@ -3,7 +3,7 @@
 ##### <p align="right"> Document your progress by creating summaries and programming the examples.  </p>
 ##### <p align="right"> Push this documentation to your GitHub repo to verify the work you've completed. </p>  
 
-## *Documentation of my learning Projects:* 
+## *Documentation of my learning Path:* 
 - [Node.js Übung](https://github.com/IxI-Enki/WMCUebung-003)
 - [StackBlitz Übung](https://github.com/IxI-Enki/WMCUebung-001)  
 - [My personal testing playground for further examples](https://github.com/IxI-Enki/WmcUebung-004)
