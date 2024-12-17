@@ -28,8 +28,8 @@
 #### *2. Multiple-Choice-Fragen:*  
   - *HTTP und HTTPS:* Methoden und Grundlagen.  
   - *JSON:* Was ist JSON, wie verwendet man es? Umgang mit JSON-Dateien (Vergleich mit XML).  
-  - *DNS:* Grundlagen, Funktionsweise.  
-  - *Fehlercodes:* Kategorien von Server- und Client-Fehlern (z. B. 404, 505, 303, 202).  
+  - *DNS:* Grundlagen, Funktionsweise.  ✅
+  - *Fehlercodes:* Kategorien von Server- und Client-Fehlern (z. B. 404, 505, 303, 202).  ✅
 
 #### *3. Offene Fragen:*  
   - Unterschiede und Erklärung von synchronem und asynchronem Code.  
