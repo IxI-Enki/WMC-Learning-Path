@@ -71,7 +71,8 @@ Nach der Prüfung folgt eine Projektarbeit.
   <!--                                                                                                              | 18<sub>h 27min</sub> |           |           |-->  
   <!----------------------------------------------------------------------------------------------------------------|----------------------|-----------|-----------|-->  
 
-- ### 2. HTTP Networking
+---
+- ### 2.) HTTP Networking
   > Work through the following topics ⚠️
 
   <!--------------------------------------------------------------------------------------------------------------|----------------------|-----------|------------|-->  
@@ -84,7 +85,9 @@ Nach der Prüfung folgt eine Projektarbeit.
   <!--                                                                                                            |  6<sub>h 9min</sub>  |           |           |-->  
   <!--------------------------------------------------------------------------------------------------------------|----------------------|-----------|-----------|-->  
 
-## 3. Watch the following videos about basic JavaScript techniques for web development ⚠️
+---
+- ### 3. JavaScript techniques for web development 
+  > Watch the following videos about basic ⚠️
 
   <!----------------------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
    | Task                                                                                                               | Duration  | Progress | Completed |  
@@ -102,17 +105,18 @@ Nach der Prüfung folgt eine Projektarbeit.
    |                                                                                                                                         |   63min   |          |           |  
   <!--|--------------------------------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
 
-## 4. Work through the following video about Node.js and Express
+---
+- ### 4.) Node.js & Express
+  >  Work through the following video 
 
-  <!------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
-   | Task                                                                                                       | Duration  | Progress | Completed |  
-   |------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|  
-   | [Node.js and Express.js - Full Course](https://www.youtube.com/watch?app=desktop&v=Oe421EPjeBE)            | 8h 17min  |   0 %    |    no     |  
-   | <img src="./img/nodejsCodeCamp.png" alt="nodejsCodeCamp" width=80%>            |           |          |    ❌     |  
-  <!------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
+  <!-----------------------------------------------------------------------------------------------------|-----------------------|-----------|-----------|-->  
+   | Task                                                                                          | Duration            | Progress | Completed |  
+   |----------------------------------------------------------------------------------------------:|:--------------------|:--------:|:---------:|  
+   | [Node.js and Express.js - Full Course](https://www.youtube.com/watch?app=desktop&v=Oe421EPjeBE) |                     |          |           |  
+   | <img src="./img/nodejsCodeCamp.png" alt="nodejsCodeCamp" width=60%>                           | 8<sub>h 17min</sub> |   100 %  |   yes ✅  |  
+  <!-----------------------------------------------------------------------------------------------------|-----------------------|-----------|------------|-->  
    
 
-
-## Optional Additional Sources
-
-- [Learn JavaScript DOM Manipulation – Tutorial for Beginners](https://www.youtube.com/watch?v=IWRS_AM2fiE)
+---
+- #### Optional Additional Sources
+  - [Learn JavaScript DOM Manipulation – Tutorial for Beginners](https://www.youtube.com/watch?v=IWRS_AM2fiE)
