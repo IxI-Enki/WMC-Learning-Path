@@ -109,12 +109,14 @@ Nach der Prüfung folgt eine Projektarbeit.
 - ### 4.) Node.js & Express
   >  Work through the following video 
 
+<div align="center">
   <!-----------------------------------------------------------------------------------------------------|-----------------------|-----------|-----------|-->  
    | Task                                                                                          | Duration            | Progress | Completed |  
    |----------------------------------------------------------------------------------------------:|:--------------------|:--------:|:---------:|  
    | [Node.js and Express.js - Full Course](https://www.youtube.com/watch?app=desktop&v=Oe421EPjeBE) |                     |          |           |  
    | <img src="./img/nodejsCodeCamp.png" alt="nodejsCodeCamp" width=60%>                           | 8<sub>h 17min</sub> |   100 %  |   yes ✅  |  
   <!-----------------------------------------------------------------------------------------------------|-----------------------|-----------|------------|-->  
+</div>
    
 
 ---
