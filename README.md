@@ -6,7 +6,7 @@
 ## *Documentation of my learning Path:* 
 - [Node.js Übung](https://github.com/IxI-Enki/WMCUebung-003)
 - [StackBlitz Übung](https://github.com/IxI-Enki/WMCUebung-001)  
-- [My personal testing playground for further examples](https://github.com/IxI-Enki/WmcUebung-004)
+- [My personal testing playground for further examples - REST API](https://github.com/IxI-Enki/WmcUebung-004)
 - [Promises](https://github.com/IxI-Enki/WmcUebung-005)
 - [URI, http- & json-server](https://github.com/IxI-Enki/WmcUebung-006)
 - [DNS & ICANN](https://github.com/IxI-Enki/WmcUebung-007)
