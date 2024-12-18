@@ -109,8 +109,6 @@ Nach der Prüfung folgt eine Projektarbeit.
 - ### 4.) Node.js & Express
   >  Work through the following video 
 
-<div align="center">
- 
   <!-----------------------------------------------------------------------------------------------------|-----------------------|-----------|-----------|-->  
    | Task                                                                                          | Duration            | Progress | Completed |  
    |----------------------------------------------------------------------------------------------:|:--------------------|:--------:|:---------:|  
@@ -118,9 +116,6 @@ Nach der Prüfung folgt eine Projektarbeit.
    | <img src="./img/nodejsCodeCamp.png" alt="nodejsCodeCamp" width=60%>                           | 8<sub>h 17min</sub> |   100 %  |   yes ✅  |  
   <!-----------------------------------------------------------------------------------------------------|-----------------------|-----------|------------|-->  
   
-</div>
-   
-
 ---
 - #### Optional Additional Sources
   - [Learn JavaScript DOM Manipulation – Tutorial for Beginners](https://www.youtube.com/watch?v=IWRS_AM2fiE)
