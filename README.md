@@ -80,7 +80,7 @@ Nach der Prüfung folgt eine Projektarbeit.
    | [Article: What is HTTP](https://www.freecodecamp.org/news/what-is-http/)                                       |                     |          |           |  
    | ![WhatIsHttpArticle](https://github.com/user-attachments/assets/db2126a6-0dca-4704-8b70-2672e5d029e5)          | 1<sub>h</sub>       |   100 %  |  yes ✅  |  
    | [Fetch and REST APIs in JavaScript](https://www.youtube.com/watch?v=2JYT5f2isg4) |                     |          |           |  
-   | <img src="./img/restCodeCamp.png" alt="restCodeCamp" width=80%>                  | 5<sub>h 9min</sub>  |   100 %  |  yes ✅  |  
+   | <img src="./img/restCodeCamp.png" alt="restCodeCamp" width=100%>                  | 5<sub>h 9min</sub>  |   100 %  |  yes ✅  |  
   <!--                                                                                                              |  6<sub>h 9min</sub> |          |           |-->  
   <!----------------------------------------------------------------------------------------------------------------|---------------------|----------|-----------|-->  
 
