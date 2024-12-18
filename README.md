@@ -58,29 +58,31 @@ Nach der Prüfung folgt eine Projektarbeit.
 
 --- 
 
-## 1. Finish either the JavaScript Course on Codecademy or the one from freeCodeCamp
+- ### 1.) JavaScript
+  > Finish either the JavaScript Course on Codecademy or the one from freeCodeCamp
 
-  <!------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
-   | Task                                                                                                       | Duration  | Progress | Completed |  
-   |------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|  
-   | [Codecademy - Introdcution to javaScript](https://www.codecademy.com/learn/introduction-to-javascript)     |   15h     |  100 %   |    yes    |  
-   | ![JavaScript](https://github.com/user-attachments/assets/15b2b634-fe97-44fa-8543-16722e1eb0f3)             |           |          |     ✅    |  
-   | [freeCodeCamp - Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) | 3h 27 min |  100 %   |    yes    |  
-   | ![JavaScriptVideo](https://github.com/user-attachments/assets/1bb284ed-c9ee-42d3-9658-3683a4a00210)        |           |          |     ✅    |  
-   |                                                                                                            | 18 27min  |          |           |  
-  <!------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
+  <!------------------------------------------------------------------------------------------------------------|----------------------|----------|-----------|-->  
+   | Task                                                                                                       | Duration             | Progress | Completed |  
+   |-----------------------------------------------------------------------------------------------------------:|:---------------------|:--------:|:---------:|  
+   | [Codecademy - Introdcution to javaScript](https://www.codecademy.com/learn/introduction-to-javascript)     |                      |          |           |  
+   | ![JavaScript](https://github.com/user-attachments/assets/15b2b634-fe97-44fa-8543-16722e1eb0f3)             | 15<sub>h</sub>       |  100 %   |  yes ✅  |  
+   | [freeCodeCamp - Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) |                      |          |           |  
+   | ![JavaScriptVideo](https://github.com/user-attachments/assets/1bb284ed-c9ee-42d3-9658-3683a4a00210)        | 3<sub>h 27min</sub>  |  100 %   |  yes ✅  |  
+  <!--                                                                                                          | 18<sub>h 27min</sub> |          |           |-->  
+  <!------------------------------------------------------------------------------------------------------------|----------------------|----------|-----------|-->  
 
-## 2. HTTP Networking - Work through the following topics ⚠️
+- ### 2. HTTP Networking
+  > Work through the following topics ⚠️
 
-  <!----------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
-   | Task                                                                                                           | Duration  | Progress | Completed |  
-   |----------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|  
-   | [Article: What is HTTP](https://www.freecodecamp.org/news/what-is-http/)                                       |    1h     |   100 %  |    yes    |  
-   | ![WhatIsHttpArticle](https://github.com/user-attachments/assets/db2126a6-0dca-4704-8b70-2672e5d029e5)          |           |          |    ✅     |  
-   | [Full HTTP Networking Course – Fetch and REST APIs in JavaScript](https://www.youtube.com/watch?v=2JYT5f2isg4) |  5h 9min  |   100 %  |    yes    |  
-   | ![HTTPVideo](https://github.com/user-attachments/assets/6b774899-3da4-4d6d-a340-892296699725)                  |           |          |    ✅     |  
-   |                                                                                                                |  6h 9min  |          |           |  
-  <!----------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
+  <!----------------------------------------------------------------------------------------------------------------|---------------------|----------|-----------|-->  
+   | Task                                                                                                           | Duration            | Progress | Completed |  
+   |---------------------------------------------------------------------------------------------------------------:|:--------------------|:--------:|:---------:|  
+   | [Article: What is HTTP](https://www.freecodecamp.org/news/what-is-http/)                                       |                     |          |           |  
+   | ![WhatIsHttpArticle](https://github.com/user-attachments/assets/db2126a6-0dca-4704-8b70-2672e5d029e5)          | 1<sub>h</sub>       |   100 %  |  yes ✅  |  
+   | [Full HTTP Networking Course – Fetch and REST APIs in JavaScript](https://www.youtube.com/watch?v=2JYT5f2isg4) |                     |          |           |  
+   | ![HTTPVideo](https://github.com/user-attachments/assets/6b774899-3da4-4d6d-a340-892296699725)                  | 5<sub>h 9min</sub>  |   100 %  |  yes ✅  |  
+  <!--                                                                                                              |  6<sub>h 9min</sub> |          |           |-->  
+  <!----------------------------------------------------------------------------------------------------------------|---------------------|----------|-----------|-->  
 
 ## 3. Watch the following videos about basic JavaScript techniques for web development ⚠️
 
