@@ -15,7 +15,7 @@
 <details>
   <summary> click for Teststoff </summary>
 
-*Zusammenfassung des Teststoffs:*
+### *Zusammenfassung des Teststoffs:*
 
 - *Lernmaterialien:*  
   - Inhalte aus dem 5-stündigen Video sind prüfungsrelevant.  
@@ -85,7 +85,7 @@ Nach der Prüfung folgt eine Projektarbeit.
 
 ---
 - ### 3.) JavaScript techniques for web development 
-  > Watch the following videos about basic ⚠️
+  > Watch the following videos ⚠️
 
   <!-------|--------------------------------------------------------------------------------------------------------------------|-----------|-----------|------------|-->  
    | Link | Task                                                                                                        | Duration  | Progress | Completed |  
