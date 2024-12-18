@@ -49,15 +49,13 @@
 </details>
 
 ---
-
 <div align="center">
- 
+
 ### *Projektarbeit im nächsten Semester:*   
 Nach der Prüfung folgt eine Projektarbeit. 
 </div>
 
 --- 
-
 - ### 1.) JavaScript
   > Finish either the JavaScript Course on Codecademy or the one from freeCodeCamp
 
@@ -86,7 +84,7 @@ Nach der Prüfung folgt eine Projektarbeit.
   <!--------------------------------------------------------------------------------------------------------------|----------------------|-----------|-----------|-->  
 
 ---
-- ### 3. JavaScript techniques for web development 
+- ### 3.) JavaScript techniques for web development 
   > Watch the following videos about basic ⚠️
 
   <!-------|--------------------------------------------------------------------------------------------------------------------|-----------|-----------|------------|-->  
