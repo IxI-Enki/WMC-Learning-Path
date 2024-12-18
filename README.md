@@ -90,20 +90,15 @@ Nach der Prüfung folgt eine Projektarbeit.
   > Watch the following videos about basic ⚠️
 
   <!----------------------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
-   | Task                                                                                                               | Duration  | Progress | Completed |  
-   |-------------------------------------------------------------------------------------------------------------------:|-----------|----------|-----------|  
-   | [ Callback Functions](https://www.youtube.com/watch?v=GWq0XETTOTk&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=13) |   13min   |    0 %   |    no     |  
-   | <img src="./img/callbackNuggets.png" alt="callbackNuggets" width=50%>                               |           |          |    ❌     |  
-   | [ Callback Hell](https://www.youtube.com/watch?v=bx9xYPt2tdc&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=14)      |   7min    |    0 %   |    no     |  
-   | <img src="./img/callbackHellNuggets.png" alt="callbackHellNuggets" width=50%>                                    |           |          |    ❌     |  
-   | [ Promises](https://www.youtube.com/watch?v=IBjmTlShf6U&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=15)           |   13min   |  100 %   |   yes     |  
-   | <img src="./img/promisesNuggets.png" alt="promisesNuggets" width=50%>                                        |           |          |    ✅     |  
-   | [ Promises Example](https://www.youtube.com/watch?v=GKVA6jYrgKc&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=16)   |   13min   |  100 %   |   yes     |  
-   | <img src="./img/promisesExampleNuggets.png" alt="promisesExampleNuggets" width=50%>                                 |           |          |    ✅     |  
-   | [ Async / Await](https://www.youtube.com/watch?v=iHrVo5fvmzE&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=17)      |   17min   |    0 %   |    no     |  
-   | <img src="./img/asyncNuggets.png" alt="asyncNuggetsNuggets" width=50%>                                       |           |          |    ❌     |  
-   |                                                                                                                                         |   63min   |          |           |  
-  <!--|--------------------------------------------------------------------------------------------------------------------------------------|-----------|----------|-----------|-->  
+   | Link | Task                                                                                                        | Duration  | Progress | Completed |  
+   |-----:|:-----------------------------------------------------------------------------------------------------------:|:----------|:--------:|:---------:|  
+   | [ Callback Functions](https://www.youtube.com/watch?v=GWq0XETTOTk&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=13) | <img src="./img/callbackNuggets.png" alt="callbackNuggets" width=50%>               | 13<sub>min</sub>  |   0%  |    ❌   |  
+   | [ Callback Hell](https://www.youtube.com/watch?v=bx9xYPt2tdc&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=14)      | <img src="./img/callbackHellNuggets.png" alt="callbackHellNuggets" width=50%>       |  7<sub>min</sub>  |   0%  |    ❌   |  
+   | [ Promises](https://www.youtube.com/watch?v=IBjmTlShf6U&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=15)           | <img src="./img/promisesNuggets.png" alt="promisesNuggets" width=50%>               |  13<sub>min</sub> |  100% | yes ✅  |  
+   | [ Promises Example](https://www.youtube.com/watch?v=GKVA6jYrgKc&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=16)   | <img src="./img/promisesExampleNuggets.png" alt="promisesExampleNuggets" width=50%> | 13<sub>min</sub>  |  100% | yes ✅  |  
+   | [ Async / Await](https://www.youtube.com/watch?v=iHrVo5fvmzE&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=17)      | <img src="./img/asyncNuggets.png" alt="asyncNuggetsNuggets" width=50%>              | 17<sub>min</sub>  |   0%  |    ❌   |  
+  <!--                                                                                                          Gesamtaufwand:  |   63min     |          |           |  
+  <!--|-------------------------------------------------------------------------------------------------------------------------|-------------|-----------|----------|-----------|-->  
 
 ---
 - ### 4.) Node.js & Express
