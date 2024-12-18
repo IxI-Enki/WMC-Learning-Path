@@ -9,6 +9,7 @@
 - [My personal testing playground for further examples](https://github.com/IxI-Enki/WmcUebung-004)
 - [Promises](https://github.com/IxI-Enki/WmcUebung-005)
 - [URI, http- & json-server](https://github.com/IxI-Enki/WmcUebung-006)
+- [DNS & ICANN](https://github.com/IxI-Enki/WmcUebung-007)
 ---
 
 <details>
