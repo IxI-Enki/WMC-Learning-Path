@@ -60,12 +60,10 @@ Nach der Prüfung folgt eine Projektarbeit.
   > Finish either the JavaScript Course on Codecademy or the one from freeCodeCamp
 
   <!----------------------------------------------------------------------------------------------------------------|----------------------|-----------|------------|-->  
-   | Task                                                                                                    | Duration            | Progress | Completed |  
-   |--------------------------------------------------------------------------------------------------------:|:--------------------|:--------:|:---------:|  
-   | [ Introdcution to JavaScript ](https://www.codecademy.com/learn/introduction-to-javascript)               |                     |          |          |  
-   | ![ JavaScript ](https://github.com/user-attachments/assets/15b2b634-fe97-44fa-8543-16722e1eb0f3)         | 15<sub>h</sub>      |  100 %   |  yes ✅  |  
-   | [ Learn JavaScript <sub> - Full Course for Beginners</sub>](https://www.youtube.com/watch?v=PkZNo7MFNFg) |                     |          |          |  
-   |  <img src="./img/javaCodeCamp.png" alt="javaCodeCamp" width=80%>                                        | 3<sub>h 27min</sub> |  100 %   |  yes ✅  |  
+   |          Link | Task                                                                                    | Duration            | Progress | Completed |  
+   |--------------:|:---------------------------------------------------------------------------------------:|:--------------------|:--------:|:---------:|  
+   | [ Introdcution to JavaScript ](https://www.codecademy.com/learn/introduction-to-javascript)               |  <img src="./img/learn-javascript.png" alt="learn-javascript" width=80%>         | 15<sub>h</sub>      |  100 %   |  yes ✅  |  
+   | [ Learn JavaScript <sub> - Full Course for Beginners</sub>](https://www.youtube.com/watch?v=PkZNo7MFNFg) |   <img src="./img/javaCodeCamp.png" alt="javaCodeCamp" width=80%>                                        | 3<sub>h 27min</sub> |  100 %   |  yes ✅  |  
   <!--                                                                                                              | 18<sub>h 27min</sub> |           |           |-->  
   <!----------------------------------------------------------------------------------------------------------------|----------------------|-----------|-----------|-->  
 
@@ -73,15 +71,13 @@ Nach der Prüfung folgt eine Projektarbeit.
 - ### 2.) HTTP Networking
   > Work through the following topics ⚠️
 
-  <!--------------------------------------------------------------------------------------------------------------|----------------------|-----------|------------|-->  
-   | Task                                                                                                  | Duration            | Progress | Completed |  
-   |------------------------------------------------------------------------------------------------------:|:--------------------|:--------:|:---------:|  
-   | [Article: What is HTTP](https://www.freecodecamp.org/news/what-is-http/)                               |                     |          |           |  
-   | ![WhatIsHttpArticle](https://github.com/user-attachments/assets/db2126a6-0dca-4704-8b70-2672e5d029e5)  | 1<sub>h</sub>       |   100 %  |  yes ✅  |  
-   | [Fetch and REST APIs in JavaScript](https://www.youtube.com/watch?v=2JYT5f2isg4)                        |                     |          |          |  
-   | <img src="./img/restCodeCamp.png" alt="restCodeCamp" width=100%>                                      | 5<sub>h 9min</sub>  |   100 %  |  yes ✅  |  
-  <!--                                                                                                            |  6<sub>h 9min</sub>  |           |           |-->  
-  <!--------------------------------------------------------------------------------------------------------------|----------------------|-----------|-----------|-->  
+  <!-------------------------------------------------------------------------------------|----------------------|-----------|------------|-->  
+   |  Link | Task                                                                   | Duration            | Progress | Completed |  
+   |------:|:----------------------------------------------------------------------:|:--------------------|:--------:|:---------:|  
+   | [Article: What is HTTP](https://www.freecodecamp.org/news/what-is-http/)        | ![WhatIsHttpArticle](https://github.com/user-attachments/assets/db2126a6-0dca-4704-8b70-2672e5d029e5)  | 1<sub>h</sub>       |   100 %  |  yes ✅  |  
+   | [Fetch and REST APIs in JavaScript](https://www.youtube.com/watch?v=2JYT5f2isg4) | <img src="./img/restCodeCamp.png" alt="restCodeCamp" width=100%>                                      | 5<sub>h 9min</sub>  |   100 %  |  yes ✅  |  
+  <!--                                                                                   |  6<sub>h 9min</sub>  |           |           |-->  
+  <!-------------------------------------------------------------------------------------|----------------------|-----------|-----------|-->  
 
 ---
 - ### 3.) JavaScript techniques for web development 
