@@ -25,24 +25,24 @@
 
 #### *1. Asynchroner Code (Promises):*
   - Verständnis und Anwendung von asynchronem Code.  
-  - Promises: Beispiele, Pseudocode schreiben und verstehen.  ✅  
+  - Promises: Beispiele, Pseudocode schreiben und verstehen.  
 
 #### *2. Multiple-Choice-Fragen:*  
   - *HTTP und HTTPS:* Methoden und Grundlagen.  
   - *JSON:* Was ist JSON, wie verwendet man es? Umgang mit JSON-Dateien (Vergleich mit XML).  
-  - *DNS:* Grundlagen, Funktionsweise.  ✅  
-  - *Fehlercodes:* Kategorien von Server- und Client-Fehlern (z. B. 404, 505, 303, 202).  ✅  
+  - ✅ *DNS:* Grundlagen, Funktionsweise.  
+  - *Fehlercodes:* Kategorien von Server- und Client-Fehlern (z. B. 404, 505, 303, 202).  
 
 #### *3. Offene Fragen:*  
   - Unterschiede und Erklärung von synchronem und asynchronem Code.  
-  - URL-Aufbau: Parameter, Struktur, Bestandteile.  ✅
+  - ✅ URL-Aufbau: Parameter, Struktur, Bestandteile.  
   - Verständnis von HTTP-Methoden und deren Einsatz.  
 
 #### *4. REST API (100% wichtig):*
-  - Funktionalität von REST APIs erklären:  ✅  
-    - Aufbau eines Requests und einer Response. ✅  
-    - Daten parsen und weiterverarbeiten.  ✅  
-  - Verständnis, wie REST APIs arbeiten und was sie ermöglichen.  ✅  
+  - Funktionalität von REST APIs erklären:  
+    - Aufbau eines Requests und einer Response.  
+    - Daten parsen und weiterverarbeiten.  
+  - Verständnis, wie REST APIs arbeiten und was sie ermöglichen.  
 
 *Hinweis:* Alle Inhalte des Test haben gesamt eine Gewichtung von insgesamt 100 Punkten.
  
