@@ -23,7 +23,7 @@
 
 - *Lernmaterialien:*  
   - ✅ Inhalte aus dem 5-stündigen Video sind prüfungsrelevant.  
-  - ✅ Materialien auf Moodle sind ebenfalls prüfungsrelevant.
+  - ✅ [ Materialien von Moodle ](https://github.com/IxI-Enki/WMC5-2425-RittJan/tree/main/pdfs) sind ebenfalls prüfungsrelevant.
 
 ### *Themen für die Prüfung:*
 
