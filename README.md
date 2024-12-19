@@ -10,6 +10,8 @@
 - [Promises](https://github.com/IxI-Enki/WmcUebung-005)
 - [URI, http- & json-server](https://github.com/IxI-Enki/WmcUebung-006)
 - [DNS & ICANN](https://github.com/IxI-Enki/WmcUebung-007)
+- [Callback Functions](https://github.com/IxI-Enki/WmcUebung-008)
+- [C.R.U.D. Actions - HTTP Methods](https://github.com/IxI-Enki/WmcUebung-009)
 ---
 
 <details>
