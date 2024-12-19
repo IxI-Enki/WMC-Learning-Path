@@ -22,8 +22,8 @@
 ### *Zusammenfassung des Teststoffs:*
 
 - *Lernmaterialien:*  
-  - ✅ Inhalte aus dem 5-stündigen Video sind prüfungsrelevant.  
-  - ✅ [ Materialien von Moodle ](https://github.com/IxI-Enki/WMC5-2425-RittJan/tree/main/pdfs) sind ebenfalls prüfungsrelevant.
+  - ✅ [Inhalte aus dem 5-stündigen Video](https://www.youtube.com/watch?v=2JYT5f2isg4) sind prüfungsrelevant.  
+  - ✅ [Materialien von Moodle](https://github.com/IxI-Enki/WMC5-2425-RittJan/tree/main/pdfs) sind ebenfalls prüfungsrelevant.
 
 ### *Themen für die Prüfung:*
 
