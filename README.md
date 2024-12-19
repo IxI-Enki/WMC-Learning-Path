@@ -12,6 +12,8 @@
 - [DNS & ICANN](https://github.com/IxI-Enki/WmcUebung-007)
 - [Callback Functions](https://github.com/IxI-Enki/WmcUebung-008)
 - [C.R.U.D. Actions - HTTP Methods](https://github.com/IxI-Enki/WmcUebung-009)
+- [PseudoCode - Async-Await-Try-Catch-Promise-Then](https://github.com/IxI-Enki/WMC5-2425-RittJan/blob/main/pseudo%20code/README.md)
+
 ---
 
 <details>
