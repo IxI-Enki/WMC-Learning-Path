@@ -62,8 +62,8 @@ Nach der Prüfung folgt eine Projektarbeit.
   <!----------------------------------------------------------------------------------------------------------------|----------------------|-----------|------------|-->  
    |          Link | Task                                                                                    | Duration            | Progress | Completed |  
    |--------------:|:---------------------------------------------------------------------------------------:|:--------------------|:--------:|:---------:|  
-   | [ Introdcution to JavaScript ](https://www.codecademy.com/learn/introduction-to-javascript)               |  <img src="./img/learn-javascript.png" alt="learn-javascript" width=80%>         | 15<sub>h</sub>      |  100 %   |  yes ✅  |  
-   | [ Learn JavaScript <sub> - Full Course for Beginners</sub>](https://www.youtube.com/watch?v=PkZNo7MFNFg) |   <img src="./img/javaCodeCamp.png" alt="javaCodeCamp" width=80%>                                        | 3<sub>h 27min</sub> |  100 %   |  yes ✅  |  
+   | [ Introdcution to JavaScript ](https://www.codecademy.com/learn/introduction-to-javascript)               | <img src="./img/learn-javascript.png" alt="learn-javascript" width=80%> | 15<sub>h</sub>      | 100 % | yes ✅ |  
+   | [ Learn JavaScript <sub> - Full Course for Beginners</sub>](https://www.youtube.com/watch?v=PkZNo7MFNFg) | <img src="./img/javaCodeCamp.png" alt="javaCodeCamp" width=80%>         | 3<sub>h 27min</sub> | 100 % | yes ✅ |  
   <!--                                                                                                              | 18<sub>h 27min</sub> |           |           |-->  
   <!----------------------------------------------------------------------------------------------------------------|----------------------|-----------|-----------|-->  
 
@@ -71,13 +71,13 @@ Nach der Prüfung folgt eine Projektarbeit.
 - ### 2.) HTTP Networking
   > Work through the following topics ⚠️
 
-  <!-------------------------------------------------------------------------------------|----------------------|-----------|------------|-->  
-   |  Link | Task                                                                   | Duration            | Progress | Completed |  
-   |------:|:----------------------------------------------------------------------:|:--------------------|:--------:|:---------:|  
-   | [Article: What is HTTP](https://www.freecodecamp.org/news/what-is-http/)        | ![WhatIsHttpArticle](https://github.com/user-attachments/assets/db2126a6-0dca-4704-8b70-2672e5d029e5)  | 1<sub>h</sub>       |   100 %  |  yes ✅  |  
-   | [Fetch and REST APIs in JavaScript](https://www.youtube.com/watch?v=2JYT5f2isg4) | <img src="./img/restCodeCamp.png" alt="restCodeCamp" width=100%>                                      | 5<sub>h 9min</sub>  |   100 %  |  yes ✅  |  
-  <!--                                                                                   |  6<sub>h 9min</sub>  |           |           |-->  
-  <!-------------------------------------------------------------------------------------|----------------------|-----------|-----------|-->  
+  <!---------------------------------------------------------------------------------------|----------------------|-----------|------------|-->  
+   |  Link | Task                                                                     | Duration            | Progress | Completed |  
+   |------:|:------------------------------------------------------------------------:|:--------------------|:--------:|:---------:|  
+   | [ Article: What is HTTP ](https://www.freecodecamp.org/news/what-is-http/)        | ![WhatIsHttpArticle](https://github.com/user-attachments/assets/db2126a6-0dca-4704-8b70-2672e5d029e5) | 1<sub>h</sub>      | 100 % | yes ✅ |  
+   | [ Fetch and REST APIs in JavaScript ](https://www.youtube.com/watch?v=2JYT5f2isg4) | <img src="./img/restCodeCamp.png" alt="restCodeCamp" width=100%>                                     | 5<sub>h 9min</sub> | 100 % | yes ✅ |  
+  <!--                                                                                     |  6<sub>h 9min</sub>  |           |           |-->  
+  <!---------------------------------------------------------------------------------------|----------------------|-----------|-----------|-->  
 
 ---
 - ### 3.) JavaScript techniques for web development 
@@ -86,11 +86,11 @@ Nach der Prüfung folgt eine Projektarbeit.
   <!-------|--------------------------------------------------------------------------------------------------------------------|-----------|-----------|------------|-->  
    | Link | Task                                                                                                        | Duration  | Progress | Completed |  
    |-----:|:-----------------------------------------------------------------------------------------------------------:|:----------|:--------:|:---------:|  
-   | [ Callback_Functions ](https://www.youtube.com/watch?v=GWq0XETTOTk&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=13) | <img src="./img/callbackNuggets.png" alt="callbackNuggets" width=50%>               | 13<sub>min</sub>  |   0%  |    ❌   |  
-   | [ Callback_Hell ](https://www.youtube.com/watch?v=bx9xYPt2tdc&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=14)      | <img src="./img/callbackHellNuggets.png" alt="callbackHellNuggets" width=50%>       |  7<sub>min</sub>  |   0%  |    ❌   |  
-   | [ Promises ](https://www.youtube.com/watch?v=IBjmTlShf6U&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=15)           | <img src="./img/promisesNuggets.png" alt="promisesNuggets" width=50%>               |  13<sub>min</sub> |  100% | yes ✅  |  
-   | [ Promises_Example ](https://www.youtube.com/watch?v=GKVA6jYrgKc&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=16)   | <img src="./img/promisesExampleNuggets.png" alt="promisesExampleNuggets" width=50%> | 13<sub>min</sub>  |  100% | yes ✅  |  
-   | [ Async/Await ](https://www.youtube.com/watch?v=iHrVo5fvmzE&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=17)      | <img src="./img/asyncNuggets.png" alt="asyncNuggetsNuggets" width=50%>              | 17<sub>min</sub>  |   0%  |    ❌   |  
+   | [ Callback_Functions ](https://www.youtube.com/watch?v=GWq0XETTOTk&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=13) | <img src="./img/callbackNuggets.png" alt="callbackNuggets" width=50%>               | 13<sub>min</sub> |   0% |    ❌  |  
+   | [ Callback_Hell ](https://www.youtube.com/watch?v=bx9xYPt2tdc&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=14)      | <img src="./img/callbackHellNuggets.png" alt="callbackHellNuggets" width=50%>       |  7<sub>min</sub> |   0% |    ❌  |  
+   | [ Promises ](https://www.youtube.com/watch?v=IBjmTlShf6U&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=15)           | <img src="./img/promisesNuggets.png" alt="promisesNuggets" width=50%>               | 13<sub>min</sub> | 100% | yes ✅ |  
+   | [ Promises_Example ](https://www.youtube.com/watch?v=GKVA6jYrgKc&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=16)   | <img src="./img/promisesExampleNuggets.png" alt="promisesExampleNuggets" width=50%> | 13<sub>min</sub> | 100% | yes ✅ |  
+   | [ Async/Await ](https://www.youtube.com/watch?v=iHrVo5fvmzE&list=PLnHJACx3NwAfRUcuKaYhZ6T5NRIpzgNGJ&index=17)       | <img src="./img/asyncNuggets.png" alt="asyncNuggetsNuggets" width=50%>               | 17<sub>min</sub> |   0% |    ❌  |  
   <!--                                                                                                          Gesamtaufwand:  |   63min     |          |           |  
   <!--|-------------------------------------------------------------------------------------------------------------------------|-------------|-----------|----------|-----------|-->  
 
@@ -101,7 +101,7 @@ Nach der Prüfung folgt eine Projektarbeit.
   <!----------------------------------------------------------------------------------------------------------------------------|------------|-----------|-----------|-->  
    | Link | Task                                                                                                        | Duration  | Progress | Completed |  
    |-----:|:-----------------------------------------------------------------------------------------------------------:|:----------|:--------:|:---------:|  
-   | [ Node.js+Express.js ](https://www.youtube.com/watch?app=desktop&v=Oe421EPjeBE) | <img src="./img/nodejsCodeCamp.png" alt="nodejsCodeCamp" width=60%> | 8<sub>h 17min</sub> |   100 %  |   yes ✅  |  
+   | [ Node.js+Express.js ](https://www.youtube.com/watch?app=desktop&v=Oe421EPjeBE) | <img src="./img/nodejsCodeCamp.png" alt="nodejsCodeCamp" width=60%> | 8<sub>h 17min</sub> | 100 % | yes ✅ |  
   <!----------------------------------------------------------------------------------------------------------------------------|------------|-----------|------------|-->  
   
 ---
